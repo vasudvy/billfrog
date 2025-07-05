@@ -1,4 +1,4 @@
-# 🧠 AI Usage Tracker
+# BillFrog
 
 A self-hostable dashboard for AI usage bill tracking with receipts-like format. Track prompts, responses, token usage, costs, and generate detailed billing reports across multiple AI providers.
 
@@ -45,7 +45,7 @@ A self-hostable dashboard for AI usage bill tracking with receipts-like format. 
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/vasudvy/billfrog
    cd ai-usage-tracker
    ```
 
@@ -278,6 +278,5 @@ For support and questions:
 
 ---
 
-**Made with ❤️ for the AI community**
-
-Self-host your AI usage tracking with complete control over your data and privacy.
+**Self-host your AI usage tracking with complete control over your data and privacy.
+**
