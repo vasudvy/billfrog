@@ -1,0 +1,52 @@
+{
+  "name": "ai-usage-tracker-client",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Frontend client for AI usage tracking dashboard",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.8.0",
+    "react-scripts": "5.0.1",
+    "axios": "^1.6.0",
+    "styled-components": "^6.1.1",
+    "recharts": "^2.8.0",
+    "moment": "^2.29.4",
+    "react-hot-toast": "^2.4.1",
+    "react-query": "^3.39.3",
+    "react-hook-form": "^7.48.2",
+    "framer-motion": "^10.16.5",
+    "lucide-react": "^0.292.0",
+    "react-syntax-highlighter": "^15.5.0",
+    "react-json-pretty": "^2.2.0",
+    "file-saver": "^2.0.5",
+    "uuid": "^9.0.1",
+    "date-fns": "^2.30.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "dev": "react-scripts start"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "proxy": "http://localhost:5000"
+}
